@@ -1,0 +1,14 @@
+
+{
+  "name": "borderadar-vercel",
+  "version": "1.0.0",
+  "description": "Borderadar - Vercel deploy (standard): map + API + bot + cron",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "rss-parser": "^3.12.0",
+    "uuid": "^9.0.0"
+  }
+}
